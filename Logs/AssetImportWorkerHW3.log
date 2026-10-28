@@ -1,0 +1,322 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/staging' branch; Version is '6000.6.6f1 (d20c9ac777da) revision 13765786'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Momo" at "2026-10-28T04:29:26.6897356Z"
+OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 32608 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-10-28T04:29:26Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW3
+-projectPath
+C:/Users/mrjva/OneDrive/Pictures/Capstone/Unity Project/Studio-Whimscape
+-logFile
+Logs/AssetImportWorkerHW3.log
+-srvPort
+55861
+-parentPid
+47544
+-analyticsCloudUserId
+2474845877021
+-analyticsLocalProjectId
+8b138c1761a7fe14e81ad50d1066cd27
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+2a14163935c441973be7dda96dc5457dba0cc18e
+-cbmMachineId
+EOSKzBDaIkolGLMRGyp8PHRPXuI=
+-licensingIpc
+LicenseClient-Momo
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+11
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/mrjva/OneDrive/Pictures/Capstone/Unity Project/Studio-Whimscape
+C:/Users/mrjva/OneDrive/Pictures/Capstone/Unity Project/Studio-Whimscape
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [46588]  Target information:
+
+Player connection [46588]  * "[IP] 10.0.0.7 [Port] 0 [Flags] 2 [Guid] 1578568918 [EditorId] 1578568918 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [46588] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [46588] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 21f3e06b962b4fbf8d08f4530b5c0f54
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.6f1 (d20c9ac777da)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mrjva/OneDrive/Pictures/Capstone/Unity Project/Studio-Whimscape/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:          NVIDIA
+    VRAM:            7956 MB
+    App VRAM Budget: 7188 MB
+    Driver:          32.0.16.2101
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.6f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56176
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001770 seconds.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.3'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Momo"
+[Licensing::IpcConnector] LicenseClient-Momo channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Momo-6000.6.6" at "2026-10-28T04:29:28.2752272Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 28548, path: "C:/Program Files/Unity/Hub/Editor/6000.6.6f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              8f7fd562162d4d3aa4be6c0ee2f508d3
+  Correlation Id:          ce16b6f49fc177bb07cf23f9565b0e28
+  External correlation Id: 1888073182262933313
+  Machine Id:              EOSKzBDaIkolGLMRGyp8PHRPXuI=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Momo-6000.6.6" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Momo-6000.6.6-notifications" at "2026-10-28T04:29:28.2827504Z"
+[Licensing::Module] Licensing Background thread has ended after 1.59s
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.637 seconds
+Domain Reload Profiling: 1092ms
+	BeginReloadAssembly (115ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (261ms)
+		LoadAssemblies (110ms)
+		TypeCache.Refresh (180ms)
+			TypeCache.ScanAssembly (169ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (638ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (78ms)
+			ProcessInitializeOnLoadMethodAttributes (418ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-PQAT-5UPR-4PVZ-NRDC-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 2474845877021-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.293 seconds
+Domain Reload Profiling: 688ms
+	BeginReloadAssembly (170ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (167ms)
+		LoadAssemblies (154ms)
+		TypeCache.Refresh (16ms)
+			TypeCache.ScanAssembly (8ms)
+		AnalyzeDomain (6ms)
+			BuildScriptInfoCaches (5ms)
+	FinalizeReload (294ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (60ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (7ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 545 unused Assets / (179.2 KB). Loaded Objects now: 1248.
+Memory consumption went from 260.3 MB to 260.1 MB.
+Total: 3.238600 ms (FindLiveObjects: 0.135600 ms CreateObjectMapping: 0.019400 ms MarkObjects: 2.893500 ms  DeleteObjects: 0.082200 ms)
+
+Curl error 23: Failure writing output to destination, passed 293 returned 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 259.9 MB to 259.9 MB.
+Total: 3.050100 ms (FindLiveObjects: 0.129900 ms CreateObjectMapping: 0.008500 ms MarkObjects: 2.803400 ms  DeleteObjects: 0.004100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 260.4 MB to 260.4 MB.
+Total: 3.969400 ms (FindLiveObjects: 0.194700 ms CreateObjectMapping: 0.015000 ms MarkObjects: 3.633100 ms  DeleteObjects: 0.004500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 260.8 MB to 260.8 MB.
+Total: 3.873200 ms (FindLiveObjects: 0.158700 ms CreateObjectMapping: 0.015100 ms MarkObjects: 3.564900 ms  DeleteObjects: 0.004300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 261.3 MB to 261.3 MB.
+Total: 4.008900 ms (FindLiveObjects: 0.161400 ms CreateObjectMapping: 0.015400 ms MarkObjects: 3.708300 ms  DeleteObjects: 0.004400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 261.7 MB to 261.7 MB.
+Total: 3.881100 ms (FindLiveObjects: 0.181200 ms CreateObjectMapping: 0.010600 ms MarkObjects: 3.565000 ms  DeleteObjects: 0.004500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 262.2 MB to 262.2 MB.
+Total: 3.851200 ms (FindLiveObjects: 0.136900 ms CreateObjectMapping: 0.014700 ms MarkObjects: 3.576800 ms  DeleteObjects: 0.004700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 262.7 MB to 262.7 MB.
+Total: 4.601700 ms (FindLiveObjects: 0.170700 ms CreateObjectMapping: 0.014400 ms MarkObjects: 4.254100 ms  DeleteObjects: 0.005300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 263.1 MB to 263.1 MB.
+Total: 3.355600 ms (FindLiveObjects: 0.178800 ms CreateObjectMapping: 0.011400 ms MarkObjects: 3.049300 ms  DeleteObjects: 0.004100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 263.6 MB to 263.6 MB.
+Total: 4.581300 ms (FindLiveObjects: 0.169200 ms CreateObjectMapping: 0.013700 ms MarkObjects: 4.279900 ms  DeleteObjects: 0.004000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (0 B). Loaded Objects now: 1248.
+Memory consumption went from 264.1 MB to 264.1 MB.
+Total: 3.982600 ms (FindLiveObjects: 0.175900 ms CreateObjectMapping: 0.010400 ms MarkObjects: 3.638600 ms  DeleteObjects: 0.004900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Editor is closing down
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
