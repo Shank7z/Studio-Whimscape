@@ -3,7 +3,7 @@ using UnityEngine;
 [System.Serializable]
 public class Stat
 {
-    [SerializeField] private float currentValue;
+    [SerializeField] public float currentValue;
     [SerializeField] private float minValue;
     [SerializeField] private float maxValue;
 
@@ -28,6 +28,10 @@ public class Stat
     public void Set(float amount) // Set currentValue to amount
     {
         currentValue = amount;
+    }
+    public float GetCurrent()
+    {
+        return currentValue;
     }
     #endregion
 
